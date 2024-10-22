@@ -13,7 +13,7 @@ class Solution:
 sol = Solution()
 
 # Test case
-nums = [2, 7, 11, 15]
+nums = [2, 7, 11, 15, 18]
 target = 9
 result = sol.twoSum(nums, target)
 
